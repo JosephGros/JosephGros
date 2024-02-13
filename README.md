@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhrMnVwcGIwbmphZXlnYXZwbTg2bnh3ZnEwYzNhMTV1aG5sZ3VkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <br>
   <div id="badges">
-    <a href="www.linkedin.com/in/wileyjosephgros">
+    <a href="https://www.linkedin.com/in/wileyjosephgros">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="discordapp.com/users/256903869756342273">
+    <a href="https://www.discordapp.com/users/256903869756342273">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
     <a href="mailto:wiley.joseph.gros@gmail.com">
