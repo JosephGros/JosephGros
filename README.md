@@ -19,6 +19,16 @@
   <h1>Hi 👋, Im Joseph Gros</h1>
 </div>
 
+```ruby
+function love() {
+  return "code";
+}
+function fix() {
+  return "trust";
+}
+console.log('Love is', love());
+console.log('In code we', fix());
+```
 
 <!--
 **JosephGros/JosephGros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
