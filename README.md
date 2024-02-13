@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmhrMnVwcGIwbmphZXlnYXZwbTg2bnh3ZnEwYzNhMTV1aG5sZ3VkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
   <br>
   <div id="badges">
-    <a href="www.linkedin.com/in/wileyjosephgros" text-decoration="none">
+    <a href="www.linkedin.com/in/wileyjosephgros">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="discordapp.com/users/256903869756342273">
@@ -11,7 +11,7 @@
     <a href="mailto:wiley.joseph.gros@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="[your-youtube-URL](https://www.threads.net/@josephgros)">
+    <a href="https://www.threads.net/@josephgros">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
     </a>
 </div>
