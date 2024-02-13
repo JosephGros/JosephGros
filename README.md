@@ -11,14 +11,11 @@
     <a href="mailto:wiley.joseph.gros@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="[your-youtube-URL](https://www.threads.net/@josephgros)">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
     </a>
 </div>
-  <div id="badges2">
-    <img src="https://komarev.com/ghpvc/?username=JosephGros&label=Profile%20views&color=0e75b6&style=flat" alt="JosephGros" />
-    <img src="https://badgen.net/github/commits/micromatch/micromatch" alt="Commit Counter"/>
-  </div>
+  
   <h1>Hi 👋, Im Joseph Gros</h1>
 </div>
 
@@ -38,7 +35,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div id="links" align="center">
+  <h3> Here are some links to my projects! </h3>
+- <a href="https://github.com/stars/JosephGros/lists/my-projects">💻 My Ideas/Projects</a>
+  <br>
+- <a href="https://github.com/stars/JosephGros/lists/school-projects">📘 My School projects</a>
 
+</div>
 
 <div id="languages" align="center">
 <h3>Languages and Tools</h3>
