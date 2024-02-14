@@ -23,11 +23,11 @@
 function love() {
   return "code";
 }
-function fix() {
-  return "trust";
+function trust() {
+  return "error";
 }
 console.log('Love is', love());
-console.log('In code we', fix());
+console.log('In code we', trust());
 ```
 
 <!--
