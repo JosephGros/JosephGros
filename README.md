@@ -14,7 +14,7 @@
     <a href="https://www.threads.net/@josephgros">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
     </a>
-    <a href="">
+    <a href="./CV">
     <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="Threads Badge"/>
     </a>
     <br><br>
