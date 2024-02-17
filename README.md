@@ -14,6 +14,11 @@
     <a href="https://www.threads.net/@josephgros">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
     </a>
+    <a href="">
+    <img src="https://img.shields.io/badge/Standard%20Resume-2A3FFB.svg?style=for-the-badge&logo=Standard-Resume&logoColor=white" alt="Threads Badge"/>
+    </a>
+    <br><br>
+    <img src="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github" alt="Threads Badge"/>
 </div>
   
   <h1>Hi 👋, Im Joseph Gros</h1>
