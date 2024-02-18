@@ -11,6 +11,7 @@
     <a href="mailto:wiley.joseph.gros@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
+    <br><br>
     <a href="https://www.threads.net/@josephgros">
     <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads Badge"/>
     </a>
